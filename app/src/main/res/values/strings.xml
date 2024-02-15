@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CropCamera</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="capture">Capture</string>
+    <string name="imageview">imageView</string>
+    <string name="back_to_camera">Back to Camera</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="click_image">Click Image</string>
+    <string name="location_service">Location Service</string>
+</resources>
